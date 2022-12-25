@@ -5,3 +5,5 @@ rice
 meet
 beans
 pizza
+egg
+fry tomato
